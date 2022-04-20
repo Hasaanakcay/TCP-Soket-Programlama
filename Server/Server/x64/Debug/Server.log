@@ -1,0 +1,3 @@
+﻿  Server.cpp
+C:\Users\DELL\Desktop\Yeni klasör\Server\Server\Server.cpp(12,1): warning C4326: 'main' öğesinin dönüş türü 'int' olmalıdır, 'void' değil
+  Server.vcxproj -> C:\Users\DELL\Desktop\Yeni klasör\Server\x64\Debug\Server.exe
