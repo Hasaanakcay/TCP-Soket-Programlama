@@ -1,0 +1,30 @@
+Hasan
+12345
+A Bankasi
+Tr111
+4737.000000
+Busra
+12345
+B Bankasi
+Tr222
+49475.000000
+Selami
+123456
+C Bankasi
+Tr333
+130
+Mustafa
+12345
+A Bankasi
+Tr444
+20000
+Suleyman
+12345
+B Bankasi
+Tr555
+699.000000
+Umran
+12345
+C Bankasi
+Tr666
+80
